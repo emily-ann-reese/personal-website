@@ -8,7 +8,7 @@ education:
 email: "ear98@uakron.edu"
 highlight_name: false
 interests:
-- Data Analysis
+- Data Analytics
 - Insurance and Finance Applications
 - Artificial Intelligence/Machine Learning
 organizations:
