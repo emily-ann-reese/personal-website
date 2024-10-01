@@ -21,7 +21,7 @@ social:
   link: /
 - icon: graduation-cap
   icon_pack: fas
-  link: https://www.uakron.edu/economics/academics/senior-projects/
+  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/emily-ann-reese
@@ -36,7 +36,7 @@ Hi! My name is Emily Reese. I'm a recent graduate of The University of Akron wit
 
 I plan on using this website to catalog code, keep track of notes and papers, blog, and a wide variety of other things. Obviously feel free to explore!
 
-NOTE: I am currently making some changes as of 05/24/2024 and most pages are placeholders until I am ready to make additional changes.
+NOTE: I am currently making some changes as of 09/24/2024 and most pages are placeholders until I am ready to make additional changes.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume5.15.2024.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
